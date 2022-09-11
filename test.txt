@@ -1,5 +1,5 @@
 Bonjour, je suis le test :)
 
-Nous avons ici un second commit!  
+Nous avons ici un second commit!
 
-Je suis le troisième test ici !
+Bonjour je suis un troisième test aussi lol !
